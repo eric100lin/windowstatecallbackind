@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WindowStateCallbackInd</string>
+
+    <string name="timestamp_title">Timestamp:</string>
+    <string name="application_display_rotation_title">Application Display Rotation:</string>
+    <string name="activity_display_rotation_title">Activity Display Rotation:</string>
+    <string name="application_display_bounds_title">Application Display Bounds:</string>
+    <string name="activity_display_bounds_title">Activity Display Bounds:</string>
+
+    <string name="application_display_listener_title">Application DisplayListener#onDisplayChanged</string>
+    <string name="activity_configuration_title">Activity#onConfigurationChanged</string>
+    <string name="application_configuration_title">Application#onConfigurationChanged</string>
+    <string name="activity_create_begin_title">Activity#onCreate begin</string>
+    <string name="activity_create_end_title">Activity#onCreate end</string>
+
+    <string name="activity_display_listener_title">Activity DisplayListener#onDisplayChanged</string>
+    <string name="display_feature_title">WindowInfoTracker#windowLayoutInfo</string>
+    <string name="display_feature_stateflow_title">StateFlow&lt;WindowLayoutInfo&gt;.value</string>
+    <string name="latest_configuration_title">Latest Configuration</string>
+
+</resources>
